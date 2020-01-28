@@ -192,3 +192,25 @@ aside ul a li
     width: calc(100% - 250px);
     margin-right: auto;
 }
+.box-files
+{
+    display: inline-block;
+    border-radius: 3px;
+    margin:15px 8px;
+    background-color: #1b1e21;
+    padding: 15px 0;
+}
+.box-files i
+{
+    color: #1e7e34;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+}
+.box-files h3
+{
+    margin-top: 10px;
+    color: #fff;
+    text-align: center;
+    display: block;
+}

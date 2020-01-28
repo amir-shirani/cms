@@ -13,6 +13,7 @@
 <body>
 <header>
     <h2 class="text-uppercase">admin panel <i class="fa fa-user-circle"></i></h2>
+    <a href="filemanger.php"><button class="btn btn-success">file manger</button></a>
     <a href=".././index.php"><i class="fa fa-power-off"></i></a>
 </header>
 <div class="body-content">
